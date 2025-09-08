@@ -11,9 +11,9 @@ Este projeto é desafio feito em `java` ,mas recebeu muitas estrelas em `golang`
 
 Exemplo:
 
-São Paulo;23.5
-Rio de Janeiro;28.0
-Brasília;20.1
+São Paulo; 23.5, 
+Rio de Janeiro; 28.0, 
+Brasília; 20.1
 
 
 - Utiliza **goroutines** para processar as linhas do arquivo em paralelo.
